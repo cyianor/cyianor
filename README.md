@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I am Felix
+
+I am passionate about computation (mostly in low-level langauges) and statistics.
 
 <!--
 **cyianor/cyianor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
