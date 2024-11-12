@@ -1,6 +1,12 @@
-## Hi, I am Felix
+## Hi, I'm Felix
 
-I am passionate about computation (mostly in low-level langauges) and statistics.
+I am passionate about computation and statistics.
+
+Some highlights ✨
+
+- [cyianor/solrcmf](https://github.com/cyianor/solrcmf): Package for multi-matrix factorization in flexible layouts implemented with a powerful ADMM solver leveraging manifold constraints
+- [cyianor/lscmf](https://github.com/cyianor/lscmf): Package for blazingly fast multi-matrix factorization in flexible layouts implemented in an asymptotic geometric framework
+- [scmethods/scregclust](https://github.com/scmethods/scregclust): Package for efficient clustering of target genes and estimation of regulatory networks in large-scale scRNA-seq data
 
 <!--
 **cyianor/cyianor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
