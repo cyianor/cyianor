@@ -17,7 +17,7 @@ Some highlights ✨
 
 Other projects I am maintaining
 
-- [cyianor/mmpca](https://github.com/cyianor/mmpca): Estimations of Multi-View Multi-Group PCA models
+- [cyianor/mmpca](https://github.com/cyianor/mmpca): Estimation of Multi-View Multi-Group PCA models
 - [cyianor/CMF](https://github.com/cyianor/CMF): Variational inference for groupwise-sparse Collective Matrix Factorization
 - [cyianor/r-compdb](https://github.com/cyianor/r-compdb): Simplify the process of generating a compile database for use with clangd
 
